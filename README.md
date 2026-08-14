@@ -54,7 +54,7 @@ Me interesa más el <b>"por qué"</b> de un bug que el bug en sí — y document
 ### 🔗 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-de-arriba/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](dearribamatiashernan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dearribamatiashernan@gmail.com)
 
 ---
 

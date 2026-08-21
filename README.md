@@ -11,7 +11,7 @@ Me interesa más el <b>"por qué"</b> de un bug que el bug en sí — y document
 
 ---
 
-### 🛠️ Stack
+## 🛠️ Stack
 
 **QA Automation**
 

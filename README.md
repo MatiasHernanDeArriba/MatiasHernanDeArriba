@@ -4,10 +4,13 @@
 QA Tester en transición hacia Automatización con Python, con foco en testing de Backend y APIs.
 </p>
 
+
+
 <p align="center">
 Uso Python para scripts de automatización y SQL para validación de datos.<br>
 Me interesa más el <b>"por qué"</b> de un bug que el bug en sí — y documentar el proceso para que cualquiera pueda reproducirlo.
 </p>
+
 
 ---
 

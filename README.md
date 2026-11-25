@@ -50,7 +50,7 @@ Me interesa más el <b>"por qué"</b> de un bug que el bug en sí — y document
 ### 📚 Actualmente aprendiendo
 
 - Front-End JS (base para Cypress y Playwright)
-- Camino hacia Back-End Java
+- Camino hacia Back-End python
 
 ---
 

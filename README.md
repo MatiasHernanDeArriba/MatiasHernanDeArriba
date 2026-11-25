@@ -1,71 +1,111 @@
-<h1 align="center">¡Hola Mundo! Soy Matías 👋</h1>
+# ¡Hola! Soy Matías De Arriba 👋
 
-<p align="center">
-QA Tester en transición hacia Automatización con Python, con foco en testing de Backend y APIs.
-</p>
+### QA Tester | QA Automation con Python | Backend & API Testing
 
+Soy QA Tester con formación en testing manual y orientación hacia la automatización de pruebas con Python.
 
+Me interesa el aseguramiento de calidad de software, el análisis de requerimientos y la detección de defectos. Actualmente enfoco mi desarrollo profesional en la automatización de pruebas funcionales y el testing de APIs.
 
-<p align="center">
-Uso Python para scripts de automatización y SQL para validación de datos.<br>
-Me interesa más el <b>"por qué"</b> de un bug que el bug en sí — y documentar el proceso para que cualquiera pueda reproducirlo.
-</p>
-
+Busco seguir creciendo en equipos de desarrollo donde pueda aportar pensamiento analítico, documentación clara, atención al detalle y compromiso con la calidad del producto.
 
 ---
 
-## 🛠️ Stack
+## 🧪 Proyectos de QA
 
-**QA Automation**
+### 1. QA Manual – Testing de eCommerce
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-000000?style=flat&logo=python&logoColor=white)
-![Behave](https://img.shields.io/badge/Behave-3C873A?style=flat&logo=cucumber&logoColor=white)
+**Proyecto práctico de aseguramiento de calidad funcional.**
 
-**Backend & Datos**
+- Análisis de requerimientos e historias de usuario.
+- Diseño y ejecución de casos de prueba.
+- Validación de funcionalidades y criterios de aceptación.
+- Reporte y documentación de defectos.
+- Seguimiento de resultados y evidencias de testing.
+- Gestión de pruebas con Jira y documentación en Excel.
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+🔗 [Ver proyecto QA Manual](https://github.com/MatiasHernanDeArriba/Proyecto_Final_QA_Tester_Manual)
 
-**CI/CD & Entorno**
+### 2. QA Automation – UI & API Testing
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Proyecto de automatización de pruebas utilizando Python.**
 
-**Gestión QA**
+- Automatización de pruebas de interfaz web con Selenium WebDriver.
+- Diseño y ejecución de tests con Pytest.
+- Validación de escenarios positivos y negativos.
+- Parametrización de pruebas mediante archivos CSV y JSON.
+- Automatización de pruebas de APIs con Requests.
+- Validaciones de respuestas HTTP y estructuras JSON.
+- Generación de reportes con Pytest HTML.
+- Configuración de workflows de GitHub Actions.
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
-
----
-
-### 🧪 Proyectos
-
-> Sección en construcción — voy a sumar acá mis próximos proyectos públicos de QA Automation en cuanto tengan código y tests subidos.
-
----
-
-### 📚 Actualmente aprendiendo
-
-- Front-End JS (base para Cypress y Playwright)
-- Camino hacia Back-End python
+🔗 [Ver proyecto QA Automation](https://github.com/MatiasHernanDeArriba/proyecto-final-automation-testing-matias-de-arriba)
 
 ---
 
-# 🔗 Contacto
+## 🛠️ Tecnologías y herramientas
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-de-arriba/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dearribamatiashernan@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/matiasdearriba/)
+### QA Automation & API Testing
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2E8B57?style=for-the-badge)
+
+### QA Manual & Gestión
+
+![Jira](https://img.shields.io/badge/Jira-2684FF?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Bases de datos y entorno de desarrollo
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-### ⚽ Fuera del código
+## 🎯 Competencias de QA
 
-Hincha de Boca Juniors 💙💛, fanático de la Fórmula 1 🏎️, lector 📚 y gamer 🎮.
+- Testing funcional y exploratorio.
+- Diseño y ejecución de casos de prueba.
+- Análisis de requerimientos y criterios de aceptación.
+- Reporte, documentación y seguimiento de bugs.
+- Testing de interfaces web.
+- Automatización de pruebas con Python y Pytest.
+- Testing de APIs REST.
+- Validación de respuestas y datos.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MatiasHernanDeArriba&color=blue" alt="visitors" />
-</p>
+---
+
+## 📚 Actualmente aprendiendo
+
+- Profundización en Python aplicado a QA Automation.
+- Automatización de pruebas de APIs.
+- SQL y validación de datos.
+- Buenas prácticas de automatización y CI/CD.
+- Desarrollo de habilidades técnicas para proyectos de Backend.
+
+---
+
+## 🤝 Sobre mí
+
+Me considero una persona analítica, detallista y orientada a la resolución de problemas.
+
+Disfruto investigar cómo funcionan las aplicaciones, identificar comportamientos inesperados y documentar hallazgos de manera clara.
+
+Fuera del mundo tecnológico, me interesan la Fórmula 1 🏎️, Boca Juniors 💙💛💙, la lectura 📚 y los videojuegos 🎮.
+
+---
+
+## 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matías_De_Arriba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-de-arriba/)
+
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dearribamatiashernan@gmail.com)
+
+---
+
+⭐ Gracias por visitar mi perfil. ¡Siempre abierto a aprender, colaborar y nuevos desafíos en el mundo IT!
